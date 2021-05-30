@@ -1,0 +1,16 @@
+{
+  "name": "increase-in-company",
+  "version": "1.0.0",
+  "description": "A company needs to know the salary of 4 employees and it will increase them by 10, 15, 20 and 25% respectively. Calculate the salary of each of the employees, taking into account the increase.",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/increase-in-company"
+  },
+ 
+  "keywords": ["js","javascript","calculation","increase","company","employees","company"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
